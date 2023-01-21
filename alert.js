@@ -1,3 +1,3 @@
 alert('JavaScript');
 
-alert(1 && null && 2);
+alert(1 && a && 2);
